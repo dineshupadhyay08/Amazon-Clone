@@ -36,8 +36,7 @@ Install my-project with npm
 ```
     
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image alt](https://github.com/dineshupadhyay08/Amazon-Clone/blob/f18f3329b43846274fbca1d92153d38517c775fe/Screenshot%202024-12-09%20183914.png)
 
 ## Project Structure
 
