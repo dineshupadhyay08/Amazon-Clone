@@ -38,6 +38,10 @@ Install my-project with npm
 ## Screenshots
 ![image alt](https://github.com/dineshupadhyay08/Amazon-Clone/blob/f18f3329b43846274fbca1d92153d38517c775fe/Screenshot%202024-12-09%20183914.png)
 
+## Screenshorts
+![image alt](https://github.com/dineshupadhyay08/Amazon-Clone/blob/4457f69b3d9ce9370fbffa3be598a5c97e945e64/Screenshot%202024-12-09%20183842.png)
+
+
 ## Project Structure
 
 ```javascript
